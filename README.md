@@ -23,4 +23,4 @@ dp音频输出正常</br>
 </br>
 </br>
 </br>
-</br><img src="http://www.reliablecounter.com/count.php?page=github.com/sumingyd/asus-z390-f-i7-9700k-uhd630--hackintosh&digit=style/shadows/11/&reloads=0"  border="0"></a><br />
+</br><img src="https://www.mfwztj.com/hit.php?id=yumaak&nd=1&style=61" border="0" alt="网站计数器"></img>
