@@ -20,3 +20,7 @@ dp音频输出正常</br>
 关闭了主题，恢复为文字界面</br>
 设置引导界面文字颜色为红色，rog信仰。</br>
 更改引导等待时间为1秒。
+</br>
+</br>
+</br>
+</br><a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=github.com/sumingyd/asus-z390-f-i7-9700k-uhd630--hackintosh&digit=style/shadows/11/&reloads=0" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://relia" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter blog</a>
