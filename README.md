@@ -20,7 +20,3 @@ dp音频输出正常</br>
 关闭了主题，恢复为文字界面</br>
 设置引导界面文字颜色为红色，rog信仰。</br>
 更改引导等待时间为1秒。
-</br>
-</br>
-</br>
-</br><a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=yurrmaaa&nd=6&style=10" border="0" alt="网站计数器"></a>
