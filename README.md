@@ -23,4 +23,4 @@ dp音频输出正常</br>
 </br>
 </br>
 </br>
-</br><img src="https://www.mfwztj.com/hit.php?id=yumaak&nd=1&style=61" border="0" alt="网站计数器"></img>
+</br><a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=yurrmaaa&nd=6&style=10" border="0" alt="网站计数器"></a>
