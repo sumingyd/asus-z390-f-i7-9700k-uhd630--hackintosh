@@ -23,4 +23,4 @@ dp音频输出正常</br>
 </br>
 </br>
 </br>
-</br><a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=github.com/sumingyd/asus-z390-f-i7-9700k-uhd630--hackintosh&digit=style/shadows/11/&reloads=0" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://relia" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter blog</a>
+</br><img src="http://www.reliablecounter.com/count.php?page=github.com/sumingyd/asus-z390-f-i7-9700k-uhd630--hackintosh&digit=style/shadows/11/&reloads=0"  border="0"></a><br />
