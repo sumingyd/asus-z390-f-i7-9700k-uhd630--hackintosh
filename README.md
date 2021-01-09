@@ -20,3 +20,9 @@ dp音频输出正常</br>
 关闭了主题，恢复为文字界面</br>
 设置引导界面文字颜色为红色，rog信仰。</br>
 更改引导等待时间为1秒。
+==================================</br>
+2021.01.10更新：</br>
+更新oc版本为0.65</br>
+设置引导界面背景色为红色。</br>
+图标文件在资源文件夹。未命名文件夹下，如需启用图标ui，可直接移动出来，不用更改相关设置。</br>
+包含声音资源，如需启用，请查看https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
