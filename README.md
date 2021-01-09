@@ -23,4 +23,5 @@
 1. 更新oc版本为0.65  
 2. 设置引导界面背景色为红色。  
 3. 图标文件在资源文件夹。未命名文件夹下，如需启用图标ui，可直接移动出来，不用更改相关设置。  
-4. 包含声音资源，如需启用，请查看https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
+4. 包含声音资源，如需启用，请查看https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe  
+5. 注：发现插独显的情况下，睡眠唤醒失败，显卡：gtx970（已屏蔽），不管是加参数屏蔽独显或者是在配置文件设备属性中屏蔽，均会导致睡眠唤醒失败。
